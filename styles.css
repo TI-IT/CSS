@@ -1,62 +1,20 @@
-/* Основные стили */
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+.class01 {
+    height: 100px;
+    background-color: #807b7b;
 }
 
-header, main, footer {
-    margin: 20px;
+.class02 {
+    height: 100%;
+    background-color: #d69292;
 }
 
-/* Стили для заголовка */
-header {
-    background-color: #f2f2f2;
-    padding: 10px;
-}
+.class03 {
+    height: 100%;
+    background-color: #6c7004;
+    margin: 50px;
+    border: #d69292 5px solid;
 
-h1 {
-    color: #333;
-}
-
-/* Стили для навигационного меню */
-nav {
-    background-color: #333;
-    color: #fff;
-}
-
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 10px;
-}
-
-nav ul li a {
-    color: #dfc1c1;
-    text-decoration: none;
-}
-
-/* Стили для основного содержимого */
-main {
-    background-color: #fff;
-    padding: 20px;
-}
-
-h2 {
-    color: #333;
-}
-
-p {
-    color: #666;
-}
-
-/* Стили для подвального блока */
-footer {
-    background-color: #f2f2f2;
-    padding: 10px;
     text-align: center;
+
+    font-size: 50px;
 }
