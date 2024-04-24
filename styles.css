@@ -1,20 +1,20 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
 .class01 {
-    height: 100px;
-    background-color: #807b7b;
+    height: 400px;
+    width: 500px;
+    background-color: #deb9b9; /* Цвет фона внешнего элемента */
+    position: relative; /* Устанавливаем относительное позиционирование */
+    padding: 10px;
 }
 
 .class02 {
     height: 100%;
-    background-color: #d69292;
-}
-
-.class03 {
-    height: 100%;
-    background-color: #6c7004;
-    margin: 50px;
-    border: #d69292 5px solid;
-
-    text-align: center;
-
-    font-size: 50px;
+    margin: 0;
+    border: 0;
+    background-color: #d51111; /* Цвет фона внутреннего элемента */
 }

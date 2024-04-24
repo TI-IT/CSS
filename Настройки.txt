@@ -1,3 +1,5 @@
 
 Команда для запуска сервера
 browser-sync start --server --files "*.html, *.css"
+
+https://www.youtube.com/watch?v=1dWQs0Atuew
